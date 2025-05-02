@@ -13,7 +13,7 @@ Available commands:
 /reasoning on|off   - Toggle reasoning mode with Reasoning Tokens
 /effort low|medium|high - Set reasoning effort level
 /help               - Show this help message
-Use Ctrl+Enter for newlines, Alt+Enter to submit prompt, or 'exit' to quit.
+Use Ctrl+X for newlines, Enter to submit prompt, or 'exit' to quit.
 Press Up/Down arrows to cycle through prompt history, Ctrl+C to stop streaming.
 Note: If keybindings don't work, try a different terminal (e.g., VS Code, iTerm2).
 ```
